@@ -1,0 +1,29 @@
+[I 00:03:39.293 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-09-13 00:03:40.464 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-13 00:03:40.464 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-13 00:03:40.464 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.464 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 00:03:40.465 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-13 00:03:40.474 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-13 00:03:40.474 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 00:03:40.485 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 00:03:40.487 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 00:03:40.487 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 00:03:40.488 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 00:03:40.488 NotebookApp] http://jupyter-juanpcruz0209-2dherramientas-2ds5c1-2dx9pklj0p:8888/user/juanpcruz0209-herramientas-s5c1-x9pklj0p/?token=...
+[I 00:03:40.488 NotebookApp]  or http://127.0.0.1:8888/user/juanpcruz0209-herramientas-s5c1-x9pklj0p/?token=...
+[I 00:03:40.488 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:03:40.493 NotebookApp] No web browser found: could not locate runnable browser.
+[I 00:03:40.807 NotebookApp] 302 GET /user/juanpcruz0209-herramientas-s5c1-x9pklj0p/ (10.2.2.15) 1.600000ms
+[I 00:03:41.480 NotebookApp] 302 GET /user/juanpcruz0209-herramientas-s5c1-x9pklj0p/?token=ebOwdIckQ_WyVUOhWdenng (201.245.254.236) 1.360000ms
+[I 00:03:41.689 NotebookApp] 301 GET /user/juanpcruz0209-herramientas-s5c1-x9pklj0p/lab/?token=ebOwdIckQ_WyVUOhWdenng (201.245.254.236) 2.110000ms
+[I 00:04:30.595 NotebookApp] 301 GET /user/juanpcruz0209-herramientas-s5c1-x9pklj0p/static/favicons/favicon.ico (201.245.254.236) 1.080000ms
+[I 2022-09-13 00:04:33.760 LabApp] Build is up to date
+[I 00:05:22.126 NotebookApp] New terminal with automatic name: 1
