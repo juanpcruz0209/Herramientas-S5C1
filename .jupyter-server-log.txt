@@ -27,3 +27,76 @@
 [I 00:04:30.595 NotebookApp] 301 GET /user/juanpcruz0209-herramientas-s5c1-x9pklj0p/static/favicons/favicon.ico (201.245.254.236) 1.080000ms
 [I 2022-09-13 00:04:33.760 LabApp] Build is up to date
 [I 00:05:22.126 NotebookApp] New terminal with automatic name: 1
+[W 2022-09-13 17:25:01.560 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-13 17:25:01.560 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-13 17:25:01.560 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-13 17:25:01.560 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-13 17:25:01.570 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-13 17:25:01.570 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 17:25:01.582 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 17:25:01.585 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 17:25:01.586 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 17:25:01.587 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 17:25:01.587 NotebookApp] http://jupyter-juanpcruz0209-2dherramientas-2ds5c1-2dm63l99n3:8888/user/juanpcruz0209-herramientas-s5c1-m63l99n3/?token=...
+[I 17:25:01.587 NotebookApp]  or http://127.0.0.1:8888/user/juanpcruz0209-herramientas-s5c1-m63l99n3/?token=...
+[I 17:25:01.587 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:25:01.623 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:25:03.241 NotebookApp] 302 GET /user/juanpcruz0209-herramientas-s5c1-m63l99n3/ (10.2.2.15) 1.550000ms
+[I 17:25:04.028 NotebookApp] 302 GET /user/juanpcruz0209-herramientas-s5c1-m63l99n3/?token=ceF5zeCrTuGjHCt6EX-Eqw (201.245.254.236) 1.170000ms
+[I 17:25:04.243 NotebookApp] 301 GET /user/juanpcruz0209-herramientas-s5c1-m63l99n3/lab/?token=ceF5zeCrTuGjHCt6EX-Eqw (201.245.254.236) 1.580000ms
+[I 17:25:19.964 NotebookApp] 301 GET /user/juanpcruz0209-herramientas-s5c1-m63l99n3/static/favicons/favicon.ico (201.245.254.236) 0.800000ms
+[I 2022-09-13 17:25:24.148 LabApp] Build is up to date
+[I 17:25:25.142 NotebookApp] New terminal with automatic name: 1
+[I 17:27:11.635 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:28:27.611 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:28:29.367 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:28:43.280 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:29:47.823 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:31:17.998 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:32:38.280 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:33:00.103 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:33:39.326 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:41:42.235 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:43:43.679 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:51:46.411 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:53:34.534 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:55:11.718 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:56:43.209 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:57:29.536 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:57:30.037 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:58:08.166 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 17:58:28.252 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:04:29.289 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:05:12.499 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:20:46.908 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:21:22.346 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:23:22.742 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:23:28.501 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:23:53.789 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:24:20.748 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:25:05.169 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:26:46.953 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:28:35.903 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:29:09.092 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:29:17.165 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:33:17.605 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:35:15.372 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:35:41.685 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 18:36:22.952 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[W 20:49:55.945 NotebookApp] WebSocket ping timeout after 119811 ms.
+[I 21:01:33.766 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:09:35.400 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:11:36.035 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:12:22.398 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:14:22.971 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:14:44.164 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:17:36.677 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
+[I 21:20:30.127 NotebookApp] Saving file at /binder/CruzJuanPablo_S5C2_repasoC.cpp
